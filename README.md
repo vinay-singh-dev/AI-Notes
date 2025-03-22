@@ -19,7 +19,7 @@ Welcome to Notesy, a feature-packed AI-based notes app for Android. Whether you'
 
 
 ## Tech Stack
-Notesy is built on a robust tech stack, including: 
+Notesy is built on a robust tech stack, including:           
 - **Kotlin:** The primary programming language used to develop the app. 
 - **Coroutines:** A lightweight threading solution that makes it easy to write asynchronous code. 
 - **Flows:** A reactive programming framework that enables real-time data streams in your app. 
