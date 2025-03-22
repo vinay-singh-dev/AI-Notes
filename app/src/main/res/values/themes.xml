@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Notesy" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary_light_ui</item>
+        <item name="colorPrimaryVariant">@color/primary_variant_lightUi</item>
+        <item name="colorOnPrimary">@color/textColor_primary_lightUi</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary_light_ui</item>
+        <item name="colorSecondaryVariant">@color/secondary_variant_light_ui</item>
+        <item name="colorOnSecondary">@color/textColor_secondary_lightUi</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@null</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
