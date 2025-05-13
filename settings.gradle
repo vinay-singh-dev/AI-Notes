@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "notesy-android"
 include ':app'
 
+
